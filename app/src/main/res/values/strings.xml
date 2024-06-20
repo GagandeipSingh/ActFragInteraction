@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ActFragInteraction</string>
+    <string name="activity_button">Activity Button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chFrag">Changed From Fragment</string>
+    <string name="chText">Changed By Activity</string>
+    <string name="passValue">Pass Value</string>
+    <string name="value">Value</string>
+    <string name="increment">Inc</string>
+    <string name="reset">Reset</string>
+    <string name="decrement">Dec</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="cntValue">-</string>
+    <string name="counter">Counter : </string>
+</resources>
